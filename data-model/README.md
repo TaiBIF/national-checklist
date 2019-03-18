@@ -30,7 +30,7 @@
 ### 種級與其下的示意圖
 ![名錄、文獻與學名使用之間的關聯][data-model-example]
 
-[data-model-example]: https://raw.githubusercontent.com/TaiBIF/national-checklist/master/ongoing/taibnet_model.png "名錄、文獻與學名使用之間的關聯"
+[data-model-example]: https://raw.githubusercontent.com/TaiBIF/national-checklist/master/data-model/taibnet_model.png "名錄、文獻與學名使用之間的關聯"
 
 ### 示意圖說明
 - 黃色 1989 年 Author4 的文章 RefD 中發表了 X. name4 Author4 這個新種。
